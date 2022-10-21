@@ -2,4 +2,23 @@
     position: sticky;
     top: 0;
     padding: 30px 20px;
+    text-align: center;
+}
+.cart p{
+    background-color: rgb(255, 139, 56);
+    padding: 10px;
+    color: rgb(255, 255, 255);
+    border-radius: 10px;
+}
+.cart h4{
+    background-color: rgb(255, 139, 56);
+    padding: 10px;
+    color: white;
+    border-radius: 10px;
+}
+.cart h5{
+    background-color: rgb(255, 139, 56);
+    padding: 10px;
+    color: white;
+    border-radius: 10px;
 }
